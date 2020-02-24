@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
-    <icon src="http://www.lineup.tv.br/canais/1575230579.gif" />
+    <icon src="http://www.lineup.tv.br/canais/telecanal.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="A&amp;E">
@@ -75,12 +75,49 @@
   </channel>
   <channel id="Tooncast">
     <display-name lang="pt">Tooncast</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvr-sorocaba.gif" />
+    <icon src="http://www.lineup.tv.br/canais/milleniumtelevision.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Canal Viva">
     <display-name lang="pt">Canal Viva</display-name>
     <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX ">
+    <display-name lang="pt">FX </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science ">
+    <display-name lang="pt">Discovery Science </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater ">
+    <display-name lang="pt">Discovery Theater </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="pt">Discovery World</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvgeraes.gif|http://www.lineup.tv.br/canais/redeminas.gif|http://www.lineup.tv.br/canais/1574361045.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney JR">
+    <display-name lang="pt">Disney JR</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney XD ">
+    <display-name lang="pt">Disney XD </display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20200224003000 -0400" stop="20200224005500 -0400" channel="A&amp;E">
     <title lang="pt">Cine 99</title>
@@ -1430,6 +1467,975 @@
   </programme>
   <programme start="20200224220000 -0400" stop="20200225000000 -0400" channel="Telecine Touch">
     <title lang="pt">Bruna Surfistinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224001500 -0400" stop="20200224004500 -0400" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224004500 -0400" stop="20200224011500 -0400" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224011500 -0400" stop="20200224014000 -0400" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224014000 -0400" stop="20200224021000 -0400" channel="Comedy Central">
+    <title lang="pt">Os Goldbergs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224021000 -0400" stop="20200224024000 -0400" channel="Comedy Central">
+    <title lang="pt">Broad City</title>
+    <sub-title lang="pt">A Cidade Das Minas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224024000 -0400" stop="20200224031000 -0400" channel="Comedy Central">
+    <title lang="pt">Broad City</title>
+    <sub-title lang="pt">A Cidade Das Minas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224031000 -0400" stop="20200224034000 -0400" channel="Comedy Central">
+    <title lang="pt">Key and Peele</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224034000 -0400" stop="20200224040500 -0400" channel="Comedy Central">
+    <title lang="pt">Key and Peele</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224040500 -0400" stop="20200224043500 -0400" channel="Comedy Central">
+    <title lang="pt">Teachers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224043500 -0400" stop="20200224050000 -0400" channel="Comedy Central">
+    <title lang="pt">Teachers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224050000 -0400" stop="20200224053000 -0400" channel="Comedy Central">
+    <title lang="pt">Alternatino com Arturo Castro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224053000 -0400" stop="20200224060000 -0400" channel="Comedy Central">
+    <title lang="pt">Alternatino com Arturo Castro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224080000 -0400" channel="Comedy Central">
+    <title lang="pt">Para Maiores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080000 -0400" stop="20200224090000 -0400" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224090000 -0400" stop="20200224093000 -0400" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224093000 -0400" stop="20200224100000 -0400" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100000 -0400" stop="20200224103000 -0400" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224103000 -0400" stop="20200224110000 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110000 -0400" stop="20200224112500 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224112500 -0400" stop="20200224122000 -0400" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224122000 -0400" stop="20200224124500 -0400" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224124500 -0400" stop="20200224131000 -0400" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224131000 -0400" stop="20200224134000 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224134000 -0400" stop="20200224140500 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140500 -0400" stop="20200224143500 -0400" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224143500 -0400" stop="20200224150500 -0400" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224150500 -0400" stop="20200224153500 -0400" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224153500 -0400" stop="20200224160500 -0400" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224160500 -0400" stop="20200224163500 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224163500 -0400" stop="20200224170000 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224170000 -0400" stop="20200224180000 -0400" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224183000 -0400" channel="Comedy Central">
+    <title lang="pt">The Office</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224183000 -0400" stop="20200224190000 -0400" channel="Comedy Central">
+    <title lang="pt">The Office</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224193000 -0400" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224193000 -0400" stop="20200224200000 -0400" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224203000 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224203000 -0400" stop="20200224205500 -0400" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224205500 -0400" stop="20200224210000 -0400" channel="Comedy Central">
+    <title lang="pt">Animatoons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224210000 -0400" stop="20200224213000 -0400" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224213000 -0400" stop="20200224220000 -0400" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200224230000 -0400" channel="Comedy Central">
+    <title lang="pt">A Culpa é da Carlota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224230000 -0400" stop="20200225000000 -0400" channel="Comedy Central">
+    <title lang="pt">A Culpa é da Carlota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224002400 -0400" stop="20200224011200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Caçando Trufas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224011200 -0400" stop="20200224020000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224020000 -0400" stop="20200224024800 -0400" channel="Discovery Theater ">
+    <title lang="pt">Alasca</title>
+    <sub-title lang="pt">Perigo no Ar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224024800 -0400" stop="20200224033600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033600 -0400" stop="20200224042400 -0400" channel="Discovery Theater ">
+    <title lang="pt">Detonadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224042400 -0400" stop="20200224051200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Mundos Subterrâneos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224051200 -0400" stop="20200224060000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Caçando Trufas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224064800 -0400" channel="Discovery Theater ">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224064800 -0400" stop="20200224073600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Austin Stevens</title>
+    <sub-title lang="pt">Os Mais Perigosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224073600 -0400" stop="20200224082400 -0400" channel="Discovery Theater ">
+    <title lang="pt">Casa dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224082400 -0400" stop="20200224091200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224091200 -0400" stop="20200224100000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Pesca Mortal: No Meio da Tempestade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100000 -0400" stop="20200224104800 -0400" channel="Discovery Theater ">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224104800 -0400" stop="20200224113600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Rota Perigosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224113600 -0400" stop="20200224122400 -0400" channel="Discovery Theater ">
+    <title lang="pt">Baía de Bristol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224122400 -0400" stop="20200224131200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Supercaminhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224131200 -0400" stop="20200224140000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140000 -0400" stop="20200224144800 -0400" channel="Discovery Theater ">
+    <title lang="pt">Resgate no Everest</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224144800 -0400" stop="20200224153600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224153600 -0400" stop="20200224162400 -0400" channel="Discovery Theater ">
+    <title lang="pt">Mistérios no Museu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224162400 -0400" stop="20200224171200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Ciência Viva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224171200 -0400" stop="20200224180000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Ciência Viva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224184800 -0400" channel="Discovery Theater ">
+    <title lang="pt">Megacargas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224184800 -0400" stop="20200224193600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Megacargas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224193600 -0400" stop="20200224200000 -0400" channel="Discovery Theater ">
+    <title lang="pt">À Brasileira</title>
+    <sub-title lang="pt">Um Passeio Cultural e Gastronômico</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224202400 -0400" channel="Discovery Theater ">
+    <title lang="pt">À Brasileira</title>
+    <sub-title lang="pt">Um Passeio Cultural e Gastronômico</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224202400 -0400" stop="20200224211200 -0400" channel="Discovery Theater ">
+    <title lang="pt">Monstros da Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224211200 -0400" stop="20200224220000 -0400" channel="Discovery Theater ">
+    <title lang="pt">Mistérios no Museu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200224224800 -0400" channel="Discovery Theater ">
+    <title lang="pt">Como Funciona a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224224800 -0400" stop="20200224233600 -0400" channel="Discovery Theater ">
+    <title lang="pt">Como Tudo Funciona</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224233600 -0400" stop="20200225002400 -0400" channel="Discovery Theater ">
+    <title lang="pt">Ases da Construção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224001500 -0400" stop="20200224024500 -0400" channel="Disney Channel">
+    <title lang="pt">A Bela e a Fera</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224024500 -0400" stop="20200224043000 -0400" channel="Disney Channel">
+    <title lang="pt">Teen Beach Movie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224043000 -0400" stop="20200224050000 -0400" channel="Disney Channel">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224050000 -0400" stop="20200224053000 -0400" channel="Disney Channel">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224053000 -0400" stop="20200224060000 -0400" channel="Disney Channel">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224063000 -0400" channel="Disney Channel">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224063000 -0400" stop="20200224070000 -0400" channel="Disney Channel">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070000 -0400" stop="20200224073000 -0400" channel="Disney Channel">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224073000 -0400" stop="20200224080000 -0400" channel="Disney Channel">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080000 -0400" stop="20200224081500 -0400" channel="Disney Channel">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224081500 -0400" stop="20200224083000 -0400" channel="Disney Channel">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224083000 -0400" stop="20200224094500 -0400" channel="Disney Channel">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224094500 -0400" stop="20200224113000 -0400" channel="Disney Channel">
+    <title lang="pt">A Princesa e o Sapo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224113000 -0400" stop="20200224123000 -0400" channel="Disney Channel">
+    <title lang="pt">Toy Story</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224123000 -0400" stop="20200224130000 -0400" channel="Disney Channel">
+    <title lang="pt">Juacas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224130000 -0400" stop="20200224133000 -0400" channel="Disney Channel">
+    <title lang="pt">Me Encontra em Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224133000 -0400" stop="20200224141500 -0400" channel="Disney Channel">
+    <title lang="pt">Disney Bia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224141500 -0400" stop="20200224142000 -0400" channel="Disney Channel">
+    <title lang="pt">Pixar Shorts</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224142000 -0400" stop="20200224142500 -0400" channel="Disney Channel">
+    <title lang="pt">Pixar Shorts</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224142500 -0400" stop="20200224143000 -0400" channel="Disney Channel">
+    <title lang="pt">Pixar Shorts</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224143000 -0400" stop="20200224150000 -0400" channel="Disney Channel">
+    <title lang="pt">Toy Story de Terror</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224150000 -0400" stop="20200224153000 -0400" channel="Disney Channel">
+    <title lang="pt">Tal Sydney, Tal Max</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224153000 -0400" stop="20200224171500 -0400" channel="Disney Channel">
+    <title lang="pt">Hotel Transilvânia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224171500 -0400" stop="20200224174500 -0400" channel="Disney Channel">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224174500 -0400" stop="20200224183000 -0400" channel="Disney Channel">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224183000 -0400" stop="20200224190000 -0400" channel="Disney Channel">
+    <title lang="pt">Gabby Duran \u2013 Babá de Aliens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224194500 -0400" channel="Disney Channel">
+    <title lang="pt">Disney Bia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224194500 -0400" stop="20200224200000 -0400" channel="Disney Channel">
+    <title lang="pt">Os Vizinhos Green</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224203000 -0400" channel="Disney Channel">
+    <title lang="pt">Me Encontra em Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224203000 -0400" stop="20200224223000 -0400" channel="Disney Channel">
+    <title lang="pt">Frozen: Uma Aventura Congelante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224223000 -0400" stop="20200225001500 -0400" channel="Disney Channel">
+    <title lang="pt">Hotel Transilvânia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224000000 -0400" stop="20200224013000 -0400" channel="Disney JR">
+    <title lang="pt">Bernardo e Bianca na Terra dos Cangurus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224013000 -0400" stop="20200224020000 -0400" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224020000 -0400" stop="20200224023000 -0400" channel="Disney JR">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224023000 -0400" stop="20200224030000 -0400" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224030000 -0400" stop="20200224033000 -0400" channel="Disney JR">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033000 -0400" stop="20200224040000 -0400" channel="Disney JR">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224040000 -0400" stop="20200224043000 -0400" channel="Disney JR">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224043000 -0400" stop="20200224044500 -0400" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224044500 -0400" stop="20200224050000 -0400" channel="Disney JR">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224050000 -0400" stop="20200224053000 -0400" channel="Disney JR">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224053000 -0400" stop="20200224060000 -0400" channel="Disney JR">
+    <title lang="pt">Morko e Mali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224063000 -0400" channel="Disney JR">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224063000 -0400" stop="20200224070000 -0400" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070000 -0400" stop="20200224073000 -0400" channel="Disney JR">
+    <title lang="pt">Marvel Spider-Man</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224073000 -0400" stop="20200224074500 -0400" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224074500 -0400" stop="20200224075000 -0400" channel="Disney JR">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224075000 -0400" stop="20200224080000 -0400" channel="Disney JR">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080000 -0400" stop="20200224093000 -0400" channel="Disney JR">
+    <title lang="pt">Irmão Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224093000 -0400" stop="20200224094500 -0400" channel="Disney JR">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224094500 -0400" stop="20200224100000 -0400" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100000 -0400" stop="20200224101500 -0400" channel="Disney JR">
+    <title lang="pt">Gigantosaurus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224101500 -0400" stop="20200224103000 -0400" channel="Disney JR">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224103000 -0400" stop="20200224104500 -0400" channel="Disney JR">
+    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224104500 -0400" stop="20200224110000 -0400" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110000 -0400" stop="20200224110500 -0400" channel="Disney JR">
+    <title lang="pt">O Diário de Mika</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110500 -0400" stop="20200224111500 -0400" channel="Disney JR">
+    <title lang="pt">O Diário de Mika</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224111500 -0400" stop="20200224112000 -0400" channel="Disney JR">
+    <title lang="pt">Guitar &amp; Drum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224112000 -0400" stop="20200224114500 -0400" channel="Disney JR">
+    <title lang="pt">Guitar &amp; Drum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224114500 -0400" stop="20200224120000 -0400" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224120000 -0400" stop="20200224131500 -0400" channel="Disney JR">
+    <title lang="pt">Tinker Bell: Fadas e Piratas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224131500 -0400" stop="20200224144500 -0400" channel="Disney JR">
+    <title lang="pt">Aviões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224144500 -0400" stop="20200224161500 -0400" channel="Disney JR">
+    <title lang="pt">Irmão Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224161500 -0400" stop="20200224163000 -0400" channel="Disney JR">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224163000 -0400" stop="20200224170000 -0400" channel="Disney JR">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224170000 -0400" stop="20200224171500 -0400" channel="Disney JR">
+    <title lang="pt">O Diário de Mika</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224171500 -0400" stop="20200224172000 -0400" channel="Disney JR">
+    <title lang="pt">Guitar &amp; Drum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224172000 -0400" stop="20200224173000 -0400" channel="Disney JR">
+    <title lang="pt">Guitar &amp; Drum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224173000 -0400" stop="20200224180000 -0400" channel="Disney JR">
+    <title lang="pt">Junior Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224181500 -0400" channel="Disney JR">
+    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224181500 -0400" stop="20200224183000 -0400" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224183000 -0400" stop="20200224184500 -0400" channel="Disney JR">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224184500 -0400" stop="20200224190000 -0400" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224191500 -0400" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224191500 -0400" stop="20200224193000 -0400" channel="Disney JR">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224193000 -0400" stop="20200224194500 -0400" channel="Disney JR">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224194500 -0400" stop="20200224200000 -0400" channel="Disney JR">
+    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224213000 -0400" channel="Disney JR">
+    <title lang="pt">Tinker Bell: Fadas e Piratas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224213000 -0400" stop="20200224214500 -0400" channel="Disney JR">
+    <title lang="pt">TOTS</title>
+    <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224214500 -0400" stop="20200224220000 -0400" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200224223000 -0400" channel="Disney JR">
+    <title lang="pt">Morko e Mali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224223000 -0400" stop="20200224224500 -0400" channel="Disney JR">
+    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224224500 -0400" stop="20200224230000 -0400" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224230000 -0400" stop="20200224233000 -0400" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224233000 -0400" stop="20200225000000 -0400" channel="Disney JR">
+    <title lang="pt">Junior Express</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
