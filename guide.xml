@@ -1,0 +1,1437 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/1575230579.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN ">
+    <display-name lang="pt">AXN </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band ">
+    <display-name lang="pt">Band </display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band News ">
+    <display-name lang="pt">Band News </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports ">
+    <display-name lang="pt">Band Sports </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang ">
+    <display-name lang="pt">Boomerang </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax ">
+    <display-name lang="pt">Cinemax </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca ">
+    <display-name lang="pt">Telecine Pipoca </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvr-sorocaba.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Viva">
+    <display-name lang="pt">Canal Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20200224003000 -0400" stop="20200224005500 -0400" channel="A&amp;E">
+    <title lang="pt">Cine 99</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224005500 -0400" stop="20200224012000 -0400" channel="A&amp;E">
+    <title lang="pt">Cine 99</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224012000 -0400" stop="20200224032000 -0400" channel="A&amp;E">
+    <title lang="pt">A Cilada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224032000 -0400" stop="20200224051000 -0400" channel="A&amp;E">
+    <title lang="pt">O Predador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224051000 -0400" stop="20200224060000 -0400" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224065000 -0400" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224065000 -0400" stop="20200224074000 -0400" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224074000 -0400" stop="20200224080500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080500 -0400" stop="20200224083000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224083000 -0400" stop="20200224092000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224092000 -0400" stop="20200224110000 -0400" channel="A&amp;E">
+    <title lang="pt">Olho Por Olho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110000 -0400" stop="20200224115000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224115000 -0400" stop="20200224124000 -0400" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224124000 -0400" stop="20200224133000 -0400" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224133000 -0400" stop="20200224135500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224135500 -0400" stop="20200224142000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224142000 -0400" stop="20200224151500 -0400" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224151500 -0400" stop="20200224170500 -0400" channel="A&amp;E">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224170500 -0400" stop="20200224180000 -0400" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224183000 -0400" channel="A&amp;E">
+    <title lang="pt">Curiosidade Mórbida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224183000 -0400" stop="20200224185500 -0400" channel="A&amp;E">
+    <title lang="pt">Era De Ouro: O Nascimento Dos Super-heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224185500 -0400" stop="20200224194000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224194000 -0400" stop="20200224211000 -0400" channel="A&amp;E">
+    <title lang="pt">Hector</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224211000 -0400" stop="20200224220000 -0400" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200224225000 -0400" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224225000 -0400" stop="20200225003000 -0400" channel="A&amp;E">
+    <title lang="pt">Chamada de Emergência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224003000 -0400" stop="20200224024500 -0400" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224024500 -0400" stop="20200224031500 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224031500 -0400" stop="20200224032100 -0400" channel="Arte 1">
+    <title lang="pt">Cena Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224032100 -0400" stop="20200224033200 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033200 -0400" stop="20200224033800 -0400" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033800 -0400" stop="20200224034500 -0400" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224034500 -0400" stop="20200224044500 -0400" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224044500 -0400" stop="20200224045200 -0400" channel="Arte 1">
+    <title lang="pt">A Crucigramista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224045200 -0400" stop="20200224050000 -0400" channel="Arte 1">
+    <title lang="pt">A Crucigramista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224050000 -0400" stop="20200224060000 -0400" channel="Arte 1">
+    <title lang="pt">Arte na Fotografia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224070000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070000 -0400" stop="20200224070700 -0400" channel="Arte 1">
+    <title lang="pt">A Crucigramista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070700 -0400" stop="20200224071500 -0400" channel="Arte 1">
+    <title lang="pt">A Crucigramista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224071500 -0400" stop="20200224093000 -0400" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224093000 -0400" stop="20200224100000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100000 -0400" stop="20200224100600 -0400" channel="Arte 1">
+    <title lang="pt">Cena Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100600 -0400" stop="20200224101700 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224101700 -0400" stop="20200224102300 -0400" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224102300 -0400" stop="20200224103000 -0400" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224103000 -0400" stop="20200224110000 -0400" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110000 -0400" stop="20200224130000 -0400" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224130000 -0400" stop="20200224140000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140000 -0400" stop="20200224143000 -0400" channel="Arte 1">
+    <title lang="pt">O Tempo e a Música</title>
+    <sub-title lang="pt">Depois do Fim da Canção</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224143000 -0400" stop="20200224150000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224150000 -0400" stop="20200224154500 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224154500 -0400" stop="20200224180000 -0400" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224190000 -0400" channel="Arte 1">
+    <title lang="pt">Saudade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224210000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224210000 -0400" stop="20200224213000 -0400" channel="Arte 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224213000 -0400" stop="20200224223000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224223000 -0400" stop="20200225000000 -0400" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224000000 -0400" stop="20200224033000 -0400" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Felder x Hooker</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033000 -0400" stop="20200224070000 -0400" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Felder x Hooker</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070000 -0400" stop="20200224090000 -0400" channel="Combate">
+    <title lang="pt">Arena Combate Striking: Skaus Combat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224090000 -0400" stop="20200224123000 -0400" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Felder x Hooker</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224123000 -0400" stop="20200224130000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Vicente Luque</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224130000 -0400" stop="20200224133000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Thomas Almeida</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224133000 -0400" stop="20200224140000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Alex Cowboy</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140000 -0400" stop="20200224150000 -0400" channel="Combate">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224150000 -0400" stop="20200224160000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">UFC Classics: Legendary Brawls</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224160000 -0400" stop="20200224180000 -0400" channel="Combate">
+    <title lang="pt">Arena Combate Striking: Skaus Combat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224183000 -0400" channel="Combate">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">Stories from Poland</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224183000 -0400" stop="20200224190000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Thomas Almeida</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224200000 -0400" channel="Combate">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224203000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Alex Cowboy</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224203000 -0400" stop="20200224210000 -0400" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Antonio \</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224210000 -0400" stop="20200225003000 -0400" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Felder x Hooker</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224000000 -0400" stop="20200224000200 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224000200 -0400" stop="20200224001100 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224001100 -0400" stop="20200224001300 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224001300 -0400" stop="20200224002400 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224002400 -0400" stop="20200224002800 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224002800 -0400" stop="20200224003900 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224003900 -0400" stop="20200224004100 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224004100 -0400" stop="20200224005200 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224005200 -0400" stop="20200224005500 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224005500 -0400" stop="20200224010000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224010000 -0400" stop="20200224010300 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224010300 -0400" stop="20200224011200 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224011200 -0400" stop="20200224012700 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224012700 -0400" stop="20200224013900 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224013900 -0400" stop="20200224015500 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224015500 -0400" stop="20200224020000 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224020000 -0400" stop="20200224021200 -0400" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224021200 -0400" stop="20200224022800 -0400" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224022800 -0400" stop="20200224023900 -0400" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224023900 -0400" stop="20200224025500 -0400" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224025500 -0400" stop="20200224030000 -0400" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224030000 -0400" stop="20200224031100 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224031100 -0400" stop="20200224032700 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224032700 -0400" stop="20200224033800 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224033800 -0400" stop="20200224035400 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224035400 -0400" stop="20200224040000 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224040000 -0400" stop="20200224040500 -0400" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224040500 -0400" stop="20200224041200 -0400" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224041200 -0400" stop="20200224042800 -0400" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224042800 -0400" stop="20200224043900 -0400" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224043900 -0400" stop="20200224045600 -0400" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224045600 -0400" stop="20200224050000 -0400" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224050000 -0400" stop="20200224052700 -0400" channel="Cartoon Network">
+    <title lang="pt">Samurai Jack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224052700 -0400" stop="20200224055500 -0400" channel="Cartoon Network">
+    <title lang="pt">Samurai Jack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224055500 -0400" stop="20200224060000 -0400" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224060000 -0400" stop="20200224061500 -0400" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224061500 -0400" stop="20200224062600 -0400" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224062600 -0400" stop="20200224063000 -0400" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224063000 -0400" stop="20200224070000 -0400" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224070000 -0400" stop="20200224071000 -0400" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224071000 -0400" stop="20200224071500 -0400" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224071500 -0400" stop="20200224072000 -0400" channel="Cartoon Network">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224072000 -0400" stop="20200224073000 -0400" channel="Cartoon Network">
+    <title lang="pt">Lego Friends: Meninas Em Missão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224073000 -0400" stop="20200224073700 -0400" channel="Cartoon Network">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224073700 -0400" stop="20200224074900 -0400" channel="Cartoon Network">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224074900 -0400" stop="20200224075600 -0400" channel="Cartoon Network">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224075600 -0400" stop="20200224080000 -0400" channel="Cartoon Network">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080000 -0400" stop="20200224080900 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080900 -0400" stop="20200224082000 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224082000 -0400" stop="20200224082700 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224082700 -0400" stop="20200224084300 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224084300 -0400" stop="20200224085000 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224085000 -0400" stop="20200224090000 -0400" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224090000 -0400" stop="20200224091100 -0400" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224091100 -0400" stop="20200224092600 -0400" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224092600 -0400" stop="20200224093000 -0400" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224093000 -0400" stop="20200224094100 -0400" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224094100 -0400" stop="20200224095700 -0400" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224095700 -0400" stop="20200224100000 -0400" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100000 -0400" stop="20200224101600 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224101600 -0400" stop="20200224103000 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224103000 -0400" stop="20200224104100 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224104100 -0400" stop="20200224105700 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224105700 -0400" stop="20200224110000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224110000 -0400" stop="20200224111200 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224111200 -0400" stop="20200224112700 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224112700 -0400" stop="20200224113900 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224113900 -0400" stop="20200224115500 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224115500 -0400" stop="20200224120000 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224120000 -0400" stop="20200224121100 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224121100 -0400" stop="20200224122600 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224122600 -0400" stop="20200224123700 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224123700 -0400" stop="20200224125200 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224125200 -0400" stop="20200224130000 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224130000 -0400" stop="20200224131100 -0400" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224131100 -0400" stop="20200224132700 -0400" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224132700 -0400" stop="20200224133000 -0400" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224133000 -0400" stop="20200224134700 -0400" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224134700 -0400" stop="20200224140500 -0400" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140500 -0400" stop="20200224141700 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224141700 -0400" stop="20200224143000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224143000 -0400" stop="20200224143300 -0400" channel="Cartoon Network">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224143300 -0400" stop="20200224150000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224150000 -0400" stop="20200224151100 -0400" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224151100 -0400" stop="20200224152800 -0400" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224152800 -0400" stop="20200224153000 -0400" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224153000 -0400" stop="20200224154100 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224154100 -0400" stop="20200224155600 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224155600 -0400" stop="20200224160000 -0400" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224160000 -0400" stop="20200224163000 -0400" channel="Cartoon Network">
+    <title lang="pt">Pokémon: Sol e Lua</title>
+    <sub-title lang="pt">Ultralendas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224163000 -0400" stop="20200224164500 -0400" channel="Cartoon Network">
+    <title lang="pt">Power Rangers: Morfagem Feroz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224164500 -0400" stop="20200224170000 -0400" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224170000 -0400" stop="20200224171100 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224171100 -0400" stop="20200224172300 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224172300 -0400" stop="20200224174200 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224174200 -0400" stop="20200224175800 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224175800 -0400" stop="20200224180000 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224180000 -0400" stop="20200224181100 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224181100 -0400" stop="20200224182700 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224182700 -0400" stop="20200224184400 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224184400 -0400" stop="20200224184500 -0400" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224184500 -0400" stop="20200224185700 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224185700 -0400" stop="20200224190000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224190000 -0400" stop="20200224191100 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224191100 -0400" stop="20200224192700 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224192700 -0400" stop="20200224193000 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224193000 -0400" stop="20200224193900 -0400" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224193900 -0400" stop="20200224194500 -0400" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224194500 -0400" stop="20200224200000 -0400" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224201500 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224201500 -0400" stop="20200224203000 -0400" channel="Cartoon Network">
+    <title lang="pt">Mao Mao: Heróis de Coração Puro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224203000 -0400" stop="20200224204500 -0400" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224204500 -0400" stop="20200224210000 -0400" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224210000 -0400" stop="20200224211500 -0400" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224211500 -0400" stop="20200224212600 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224212600 -0400" stop="20200224214200 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224214200 -0400" stop="20200224215800 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224215800 -0400" stop="20200224220300 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220300 -0400" stop="20200224221500 -0400" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224221500 -0400" stop="20200224223300 -0400" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224223300 -0400" stop="20200224225100 -0400" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224225100 -0400" stop="20200224230500 -0400" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224230500 -0400" stop="20200224231600 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224231600 -0400" stop="20200224233200 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224233200 -0400" stop="20200224234400 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224234400 -0400" stop="20200225000000 -0400" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224001500 -0400" stop="20200224022000 -0400" channel="Telecine Cult">
+    <title lang="pt">O Primeiro Assalto De Trem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224022000 -0400" stop="20200224040000 -0400" channel="Telecine Cult">
+    <title lang="pt">Beijos Proibidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224040000 -0400" stop="20200224061000 -0400" channel="Telecine Cult">
+    <title lang="pt">O Presidente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224061000 -0400" stop="20200224075000 -0400" channel="Telecine Cult">
+    <title lang="pt">Lamén Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224075000 -0400" stop="20200224093000 -0400" channel="Telecine Cult">
+    <title lang="pt">Os Guarda-Chuvas do Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224093000 -0400" stop="20200224113500 -0400" channel="Telecine Cult">
+    <title lang="pt">O Homem do Prego</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224113500 -0400" stop="20200224131500 -0400" channel="Telecine Cult">
+    <title lang="pt">Um Dia a Casa Cai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224131500 -0400" stop="20200224154500 -0400" channel="Telecine Cult">
+    <title lang="pt">Lili, Minha Adorável Espiã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224154500 -0400" stop="20200224175500 -0400" channel="Telecine Cult">
+    <title lang="pt">Frenesi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224175500 -0400" stop="20200224200000 -0400" channel="Telecine Cult">
+    <title lang="pt">De Volta Para O Futuro Parte III</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224200000 -0400" stop="20200224220000 -0400" channel="Telecine Cult">
+    <title lang="pt">Sessão Bang Bang: Butch Cassidy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200225005500 -0400" channel="Telecine Cult">
+    <title lang="pt">Sessão Bang Bang: Era Uma Vez no Oeste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224002500 -0400" stop="20200224024000 -0400" channel="Telecine Touch">
+    <title lang="pt">Um Lugar Chamado Notting Hill</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224024000 -0400" stop="20200224042500 -0400" channel="Telecine Touch">
+    <title lang="pt">Decisão De Risco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224042500 -0400" stop="20200224055500 -0400" channel="Telecine Touch">
+    <title lang="pt">Lembranças de Uma Infância</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224055500 -0400" stop="20200224080000 -0400" channel="Telecine Touch">
+    <title lang="pt">Em Defesa de Cristo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224080000 -0400" stop="20200224100500 -0400" channel="Telecine Touch">
+    <title lang="pt">A Escola da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224100500 -0400" stop="20200224122000 -0400" channel="Telecine Touch">
+    <title lang="pt">Um Homem de Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224122000 -0400" stop="20200224140000 -0400" channel="Telecine Touch">
+    <title lang="pt">Recém-Formada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224140000 -0400" stop="20200224155000 -0400" channel="Telecine Touch">
+    <title lang="pt">Abaixo o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224155000 -0400" stop="20200224174500 -0400" channel="Telecine Touch">
+    <title lang="pt">A Família Bélier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224174500 -0400" stop="20200224195000 -0400" channel="Telecine Touch">
+    <title lang="pt">Como Eu Era Antes De Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224195000 -0400" stop="20200224220000 -0400" channel="Telecine Touch">
+    <title lang="pt">Como Perder Um Homem Em 10 Dias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200224220000 -0400" stop="20200225000000 -0400" channel="Telecine Touch">
+    <title lang="pt">Bruna Surfistinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
